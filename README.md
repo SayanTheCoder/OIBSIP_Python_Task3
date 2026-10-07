@@ -38,6 +38,15 @@ A desktop password generator built with Python and Tkinter. It uses Python's `se
 - Tkinter (included with many Python installations; Linux users may need to install it separately)
 - The Python package listed in `requirements.txt`
 
+## Clone This Project
+
+If you want to clone the repository and set it up with the GitHub remote:
+
+```bash
+git clone https://github.com/SayanTheCoder/OIBSIP_Python_Task3.git
+cd OIBSIP_Python_Task3
+```
+
 ## Setup and Run
 
 Open a terminal in this folder and run:
